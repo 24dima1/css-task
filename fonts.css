@@ -1,0 +1,12 @@
+
+@font-face {
+        font-family: "barlow";    
+     
+    src: url("fonts/BarlowSemiCondensed-LightItalic.eot"); 
+src: url("fonts/barlow/BarlowSemiCondensed-LightItalic.eot?#iefix") format("embedded-opentype"),
+url("fonts/barlow/barlow.woff") format("woff"), 
+url("fonts/barlow/barlow.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+    
+    } 
